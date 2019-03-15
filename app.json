@@ -1,0 +1,23 @@
+{
+  "pages": [
+    
+    
+    "pages/index/index",
+    "pages/scanResult/index",
+    "pages/blings/index",
+    "pages/warn/index",
+    "pages/my/index",
+    "pages/wallet/index",
+    "pages/charge/index"
+    
+    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#b9dd08",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "ofo单车",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
